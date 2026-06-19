@@ -1,0 +1,9 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# RISC-V assembly artifacts
+*.o
+*.out
