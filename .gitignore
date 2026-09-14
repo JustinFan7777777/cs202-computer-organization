@@ -7,3 +7,4 @@
 # RISC-V assembly artifacts
 *.o
 *.out
+.claude/
